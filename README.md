@@ -1,6 +1,8 @@
 # Universidad de los Andes
 ## MINE 4101: Ciencia de Datos Aplicada
 
+**Integrante:** Nicolás Tibatá Castañeda
+
 Dicho repositorio contiene en diferentes carpetas todos los talleres de la clase MINE 4101 - Ciencia de Datos Aplicada.
 
 **Instrucciones de ejecución:**
